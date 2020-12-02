@@ -1,1 +1,1 @@
-initSidebarItems({"struct":[["PyTraverseError",""],["PyVisit",""]],"trait":[["PyGCClearProtocol",""],["PyGCProtocol","GC support"],["PyGCTraverseProtocol",""]]});
+initSidebarItems({"struct":[["PyTraverseError",""],["PyVisit","Object visitor for GC."]],"trait":[["PyGCClearProtocol",""],["PyGCProtocol","GC support"],["PyGCTraverseProtocol",""]]});
